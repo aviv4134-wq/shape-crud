@@ -25,3 +25,7 @@ class Rectangle(shape.Shape):
         data = super().to_dict()
         data['side'] = self.side
         return data
+    def __str__(self) -> str:
+       perimeter = Rectangle.get_perimeter(self)
+       area = Rectangle.get_area(self)
+       return f'id:{self.shape_id}\ntype:{self.shape_type}\nradius:{self.side}\narea:{area}\nperimeter:{perimeter}'
