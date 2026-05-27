@@ -19,4 +19,9 @@ class Rectangle(shape.Shape):
         rectangle_perimeter = self.side * 4
         return rectangle_perimeter 
     def to_dict(self):
-        pass
+        """add side parameter to dict of a shape
+         taken : none
+         return : dict """
+        data = super().to_dict()
+        data['side'] = self.side
+        return data
