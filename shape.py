@@ -10,5 +10,8 @@ class Shape:
     def get_perimeter(self):
         pass  
     def to_dict(self):
+        """add side parameter to dict of a shape
+         taken : none
+         return : dict """
         dict_of_shape = {'id': self.shape_id,'type': self.shape_type}
         return dict_of_shape
