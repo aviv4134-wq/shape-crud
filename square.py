@@ -1,5 +1,6 @@
-import shape
+import shape,main
 
+logger = main.logger
 class Square(shape.Shape):
     def __init__(self, shape_id, shape_type,side):
         super().__init__(shape_id,shape_type)
@@ -23,4 +24,7 @@ class Square(shape.Shape):
         data = super().to_dict()
         data['side'] = self.side
         return data
-    
+    def __str__(self) -> str:
+        perimeter = Square.get_perimeter(self)
+        area = Square.get_area(self)
+        return f'id:{self.shape_id}\ntype:{self.shape_type}\nradius:{self.side}\narea:{area}\nperimeter:{perimeter}' 
