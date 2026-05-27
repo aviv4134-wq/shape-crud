@@ -21,4 +21,24 @@ Update shape .3
 Delete shape .4
 Exit .5
  """)
-    
+
+
+
+def main():
+    run = True
+    while run:
+        print_menu()
+        user_input_menu = input('enter a number 1 - 5: ')
+        if user_input_menu == '1':
+            pass
+        elif user_input_menu == '2':
+            pass
+        elif user_input_menu == '3':
+            pass
+        elif user_input_menu == '4':
+            pass
+        elif user_input_menu == '5':
+            print('good bay')
+            break 
+
+main()
