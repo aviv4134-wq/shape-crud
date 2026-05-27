@@ -1,4 +1,4 @@
-import shape
+import shape 
 
 class Circle(shape.Shape):
     PI = 3.14
@@ -27,8 +27,10 @@ class Circle(shape.Shape):
         data['radius'] = self.radius
         return data
     
-    #def __str__(self) -> str:
-        Circle.get_perimeter(self)
-        return self.shape_id,self.shape_type,self.radius 
+
+    def __str__(self) -> str:
+        perimeter = Circle.get_perimeter(self)
+        area = Circle.get_area(self)
+        return f'id:{self.shape_id}\ntype:{self.shape_type}\nradius:{self.radius}\nperimeter:{perimeter}\narea:{area}' 
 
 c = Circle(6,'circle',5)
