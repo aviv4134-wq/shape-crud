@@ -12,3 +12,13 @@ file_streamer.setFormatter(formatter)
 logger.addHandler(file_handler)
 logger.addHandler(file_streamer)
 
+def print_menu() ->None:
+    """print menu to user"""
+    print('===WELCOME to SHAPE CRUD===')
+    print("""add shape 1
+Show all shapes .2
+Update shape .3
+Delete shape .4
+Exit .5
+ """)
+    
