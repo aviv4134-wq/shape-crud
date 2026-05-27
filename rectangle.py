@@ -13,6 +13,10 @@ class Rectangle(shape.Shape):
         rectangle_area = self.side ** 2
         return rectangle_area
     def get_perimeter(self):
-        pass
+        """calculate rectangle perimeter
+        taken : none
+        return : rectangle perimeter"""
+        rectangle_perimeter = self.side * 4
+        return rectangle_perimeter 
     def to_dict(self):
         pass
