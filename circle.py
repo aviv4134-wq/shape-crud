@@ -1,11 +1,13 @@
 import shape 
-
+from logger_file import logger
 class Circle(shape.Shape):
     PI = 3.14
     
     def __init__(self, shape_id, shape_type,radius):
-        super().__init__(shape_id, shape_type)
-        self.radius = radius
+        cleaned_id,cleaned_radius = self.validate_input_object(shape_id,radius) 
+        super().__init__(cleaned_id, shape_type)
+        self.radius = cleaned_radius
+        logger.info('success to create object ')  
     
     def get_area(self):
         """calculate circle area
@@ -29,8 +31,11 @@ class Circle(shape.Shape):
     
 
     def __str__(self) -> str:
-        perimeter = Circle.get_perimeter(self)
-        area = Circle.get_area(self)
-        return f'id:{self.shape_id}\ntype:{self.shape_type}\nradius:{self.radius}\nperimeter:{perimeter}\narea:{area}' 
+        """show the object parameters"""
+        perimeter = self.get_perimeter()
+        area = self.get_area()
+        return f'id:{self.shape_id}\ntype:{self.shape_type}\nradius:{self.radius}\narea:{area}\nperimeter:{perimeter}' 
 
-c = Circle(6,'circle',5)
+c = Circle(1,'circle',1)
+t = Circle(1,'circle',1)
+print(c.radius)

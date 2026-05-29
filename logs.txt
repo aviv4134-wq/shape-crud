@@ -1,0 +1,1732 @@
+
+2026-05-27 12:47:55,285 - DEBUG - [main.py] - the user input is 4
+2026-05-27 12:47:55,285 - INFO - [main.py] - start checking user menu input
+2026-05-27 12:48:41,038 - DEBUG - [main.py] - the user input is 4
+2026-05-27 12:48:41,038 - INFO - [main.py] - start checking user menu input
+2026-05-27 12:51:41,882 - DEBUG - [main.py] - the user input is O
+2026-05-27 12:51:41,883 - INFO - [main.py] - start checking user menu input
+2026-05-27 12:51:41,883 - ERROR - [main.py] - user did not enter a number between 1 - 5 enter only one number
+2026-05-27 12:52:10,203 - DEBUG - [main.py] - the user input is 55
+2026-05-27 12:52:10,204 - INFO - [main.py] - start checking user menu input
+2026-05-27 12:52:10,204 - ERROR - [main.py] - user did not enter a number between 1 - 5 enter only one number
+2026-05-27 13:49:43,187 - DEBUG - [main.py] - the user input is t
+2026-05-27 13:49:43,188 - INFO - [main.py] - start checking user menu input
+2026-05-27 13:49:43,188 - ERROR - [main.py] - user did not enter a number between 1 - 5 error only number between 1 - 5 are allowed
+2026-05-27 13:50:58,231 - DEBUG - [main.py] - the user input is t
+2026-05-27 13:50:58,231 - INFO - [main.py] - start checking user menu input
+2026-05-27 13:50:58,231 - ERROR - [main.py] - user did not enter a number between 1 - 5 
+2026-05-27 13:53:47,436 - DEBUG - [main.py] - the user input is t
+2026-05-27 13:53:47,436 - INFO - [main.py] - start checking user menu input
+2026-05-27 13:53:47,436 - ERROR - [main.py] - user did not enter a number between 1 - 5 hgjgh
+2026-05-27 13:54:52,133 - DEBUG - [main.py] - the user input is t
+2026-05-27 13:54:52,133 - INFO - [main.py] - start checking user menu input
+2026-05-27 13:54:52,133 - ERROR - [main.py] - user did not enter a number between 1 - 5 
+2026-05-27 13:54:59,686 - DEBUG - [main.py] - the user input is t
+2026-05-27 13:54:59,686 - INFO - [main.py] - start checking user menu input
+2026-05-27 13:54:59,686 - ERROR - [main.py] - user did not enter a number between 1 - 5 
+2026-05-27 13:56:29,151 - DEBUG - [main.py] - the user input is t
+2026-05-27 13:56:29,152 - INFO - [main.py] - start checking user menu input
+2026-05-27 13:56:29,152 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 13:57:29,928 - DEBUG - [main.py] - the user input is t
+2026-05-27 13:57:29,928 - INFO - [main.py] - start checking user menu input
+2026-05-27 13:57:29,928 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 13:57:38,795 - DEBUG - [main.py] - the user input is t432
+2026-05-27 13:57:38,796 - INFO - [main.py] - start checking user menu input
+2026-05-27 13:57:38,796 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 13:57:45,704 - DEBUG - [main.py] - the user input is 432
+2026-05-27 13:57:45,704 - INFO - [main.py] - start checking user menu input
+2026-05-27 13:57:45,704 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter number not allowed
+2026-05-27 13:57:53,802 - DEBUG - [main.py] - the user input is 4
+2026-05-27 13:57:53,802 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:01:32,927 - DEBUG - [main.py] - the user input is 0
+2026-05-27 14:01:32,928 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:01:32,928 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter number not allowed
+2026-05-27 14:01:34,532 - DEBUG - [main.py] - the user input is 0
+2026-05-27 14:01:34,532 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:01:34,533 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter number not allowed
+2026-05-27 14:01:46,929 - DEBUG - [main.py] - the user input is 0
+2026-05-27 14:01:46,930 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:01:46,930 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter number not allowed
+2026-05-27 14:30:10,639 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:30:10,639 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:30:10,639 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:33:08,268 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-27 14:33:08,268 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:33:08,268 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:33:10,306 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:33:10,306 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:33:10,306 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:33:39,231 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-27 14:33:39,231 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:33:39,231 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:33:41,983 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-27 14:33:41,984 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:33:41,984 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:33:42,379 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-27 14:33:42,379 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:33:42,379 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:33:42,593 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-27 14:33:42,593 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:33:42,594 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:34:29,914 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-27 14:34:29,914 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:34:29,914 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:34:31,466 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-27 14:34:31,466 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:34:31,466 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:34:31,809 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-27 14:34:31,809 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:34:31,809 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:34:35,651 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:34:35,651 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:34:35,651 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:35:14,685 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-27 14:35:14,686 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:35:14,686 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:35:18,444 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:35:18,444 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:35:18,444 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:37:30,876 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-27 14:37:30,877 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:37:30,877 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:37:35,296 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:37:35,296 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:37:35,296 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:40:01,436 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:40:01,436 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:40:01,436 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:40:48,165 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:40:48,165 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:40:48,165 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:41:26,370 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:41:26,370 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:41:26,371 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:43:02,986 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:43:02,986 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:43:02,986 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:43:16,758 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:43:16,759 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:43:16,759 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:44:44,635 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:44:44,635 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:44:44,635 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:46:31,468 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:46:31,468 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:46:31,468 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:46:46,612 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-27 14:46:46,612 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:46:46,612 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:46:49,850 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:46:49,850 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:46:49,850 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:50:49,553 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-27 14:50:49,554 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:50:49,554 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:50:52,427 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:50:52,427 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:50:52,427 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:51:38,441 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:51:38,441 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:51:38,442 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:52:34,490 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:52:34,491 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:52:34,491 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:52:52,237 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-27 14:52:52,237 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:52:52,237 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 14:52:54,358 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:52:54,359 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:52:54,359 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:53:12,225 - DEBUG - [main.py] - the user input is 1
+2026-05-27 14:53:12,225 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:53:12,226 - INFO - [main.py] - input main allowed check completed
+2026-05-27 14:56:48,147 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/square.py
+2026-05-27 14:56:48,147 - INFO - [main.py] - start checking user menu input
+2026-05-27 14:56:48,148 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:16:11,257 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-27 15:16:11,258 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:16:11,258 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:23:34,094 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:23:34,094 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:23:34,094 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:23:36,326 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:23:36,326 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:23:36,326 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:23:36,908 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:23:36,909 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:23:36,909 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:23:37,161 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:23:37,161 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:23:37,162 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:23:59,560 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:23:59,560 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:23:59,560 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:24:06,727 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:24:06,727 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:24:06,727 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:24:23,842 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:24:23,842 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:24:23,842 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:24:59,045 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:24:59,045 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:24:59,045 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:24:59,810 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:24:59,810 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:24:59,810 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:25:00,131 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:25:00,131 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:25:00,131 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:25:00,275 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:25:00,276 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:25:00,276 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:25:10,043 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:25:10,043 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:25:10,043 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:25:21,644 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:25:21,645 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:25:21,645 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:25:44,120 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:25:44,120 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:25:44,120 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:26:03,311 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:26:03,312 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:26:03,312 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 15:26:04,577 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 15:26:04,578 - INFO - [main.py] - start checking user menu input
+2026-05-27 15:26:04,578 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 16:21:27,248 - INFO - [main.py] - start program
+2026-05-27 16:21:29,335 - DEBUG - [main.py] - the user input is 1
+2026-05-27 16:21:29,335 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:21:29,335 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-27 16:22:56,330 - INFO - [main.py] - start program
+2026-05-27 16:22:57,989 - DEBUG - [main.py] - the user input is 1
+2026-05-27 16:22:57,989 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:22:57,989 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-27 16:23:06,063 - INFO - [main.py] - start program
+2026-05-27 16:23:43,275 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-27 16:23:43,275 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:23:43,275 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 16:23:43,276 - INFO - [main.py] - start program
+2026-05-27 16:23:54,666 - DEBUG - [main.py] - the user input is 1
+2026-05-27 16:23:54,666 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:23:54,666 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-27 16:24:02,006 - INFO - [main.py] - start program
+2026-05-27 16:25:07,489 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-27 16:25:07,489 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:25:07,489 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 16:25:07,489 - INFO - [main.py] - start program
+2026-05-27 16:25:14,666 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-27 16:25:14,666 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:25:14,666 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 16:25:14,666 - INFO - [main.py] - start program
+2026-05-27 16:36:41,114 - INFO - [main.py] - start program
+2026-05-27 16:36:43,246 - DEBUG - [main.py] - the user input is 1
+2026-05-27 16:36:43,246 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:36:43,246 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-27 16:37:32,149 - INFO - [main.py] - start program
+2026-05-27 16:37:34,669 - DEBUG - [main.py] - the user input is 1
+2026-05-27 16:37:34,669 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:37:34,669 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-27 16:38:29,895 - INFO - [main.py] - start program
+2026-05-27 16:38:31,742 - DEBUG - [main.py] - the user input is 1
+2026-05-27 16:38:31,742 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:38:31,742 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-27 16:38:39,763 - INFO - [main.py] - start program
+2026-05-27 16:41:25,757 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-27 16:41:25,757 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:41:25,757 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 16:41:25,758 - INFO - [main.py] - start program
+2026-05-27 16:41:27,856 - DEBUG - [main.py] - the user input is 2
+2026-05-27 16:41:27,857 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:41:27,857 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-27 16:41:27,857 - INFO - [main.py] - start program
+2026-05-27 16:41:33,342 - DEBUG - [main.py] - the user input is 1
+2026-05-27 16:41:33,343 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:41:33,343 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-27 16:41:40,190 - INFO - [main.py] - start program
+2026-05-27 16:42:26,067 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-27 16:42:26,067 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:42:26,068 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 16:42:26,068 - INFO - [main.py] - start program
+2026-05-27 16:42:28,075 - DEBUG - [main.py] - the user input is 1
+2026-05-27 16:42:28,075 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:42:28,075 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-27 16:42:37,063 - INFO - [main.py] - start program
+2026-05-27 16:43:00,590 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-27 16:43:00,591 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:43:00,591 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 16:43:00,591 - INFO - [main.py] - start program
+2026-05-27 16:43:02,462 - DEBUG - [main.py] - the user input is 1
+2026-05-27 16:43:02,463 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:43:02,463 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-27 16:43:07,032 - INFO - [main.py] - start program
+2026-05-27 16:43:21,170 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-27 16:43:21,170 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:43:21,170 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 16:43:21,170 - INFO - [main.py] - start program
+2026-05-27 16:43:23,106 - DEBUG - [main.py] - the user input is 1
+2026-05-27 16:43:23,107 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:43:23,107 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-27 16:43:28,933 - INFO - [main.py] - start program
+2026-05-27 16:43:46,460 - INFO - [main.py] - start program
+2026-05-27 16:43:48,817 - DEBUG - [main.py] - the user input is 1
+2026-05-27 16:43:48,818 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:43:48,818 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-27 16:43:55,058 - INFO - [main.py] - start program
+2026-05-27 16:57:22,785 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-27 16:57:22,786 - INFO - [main.py] - start checking user menu input
+2026-05-27 16:57:22,786 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-27 16:57:22,786 - INFO - [main.py] - start program
+2026-05-28 10:19:54,942 - INFO - [main.py] - start program
+2026-05-28 10:19:57,525 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:19:57,525 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:19:57,525 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:20:10,618 - INFO - [main.py] - start program
+2026-05-28 10:20:39,521 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:20:39,522 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:20:39,522 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:20:39,522 - INFO - [main.py] - start program
+2026-05-28 10:20:40,883 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:20:40,884 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:20:40,884 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:20:40,884 - INFO - [main.py] - start program
+2026-05-28 10:20:53,997 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:20:53,997 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:20:53,997 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:20:53,997 - INFO - [main.py] - start program
+2026-05-28 10:21:01,753 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:21:01,754 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:21:01,754 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:21:01,754 - INFO - [main.py] - start program
+2026-05-28 10:21:04,856 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:21:04,857 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:21:04,857 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:21:04,857 - INFO - [main.py] - start program
+2026-05-28 10:21:52,239 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:21:52,240 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:21:52,240 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:21:52,240 - INFO - [main.py] - start program
+2026-05-28 10:21:56,124 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:21:56,124 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:21:56,125 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:21:56,125 - INFO - [main.py] - start program
+2026-05-28 10:22:26,770 - INFO - [main.py] - start program
+2026-05-28 10:22:30,131 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:22:30,131 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:22:30,131 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:23:14,876 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:23:14,877 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:23:14,877 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:23:14,877 - INFO - [main.py] - start program
+2026-05-28 10:23:17,866 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:23:17,866 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:23:17,866 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:23:26,331 - INFO - [main.py] - start program
+2026-05-28 10:23:28,279 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:23:28,279 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:23:28,279 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:23:28,279 - INFO - [main.py] - start program
+2026-05-28 10:26:32,556 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:26:32,557 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:26:32,557 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:26:32,557 - INFO - [main.py] - start program
+2026-05-28 10:26:36,663 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:26:36,663 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:26:36,664 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:26:50,676 - INFO - [main.py] - start program
+2026-05-28 10:26:53,437 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:26:53,437 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:26:53,437 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:26:53,437 - INFO - [main.py] - start program
+2026-05-28 10:27:10,269 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:27:10,269 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:27:10,269 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:27:10,269 - INFO - [main.py] - start program
+2026-05-28 10:27:17,955 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:27:17,955 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:27:17,955 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:27:17,956 - INFO - [main.py] - start program
+2026-05-28 10:27:19,829 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:27:19,829 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:27:19,830 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:27:19,830 - INFO - [main.py] - start program
+2026-05-28 10:27:21,431 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:27:21,431 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:27:21,432 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:27:21,432 - INFO - [main.py] - start program
+2026-05-28 10:27:36,332 - INFO - [main.py] - start program
+2026-05-28 10:27:40,828 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:27:40,828 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:27:40,828 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:28:15,622 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:28:15,622 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:28:15,622 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:28:15,623 - INFO - [main.py] - start program
+2026-05-28 10:28:21,224 - INFO - [main.py] - start program
+2026-05-28 10:28:23,185 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:28:23,185 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:28:23,186 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:28:34,004 - INFO - [main.py] - start program
+2026-05-28 10:28:51,393 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:28:51,393 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:28:51,394 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:29:05,051 - INFO - [main.py] - start program
+2026-05-28 10:29:10,323 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:29:10,324 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:29:10,324 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:29:10,324 - INFO - [main.py] - start program
+2026-05-28 10:29:15,979 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:29:15,979 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:29:15,979 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:29:23,642 - INFO - [main.py] - start program
+2026-05-28 10:30:55,422 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:30:55,423 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:30:55,423 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:30:55,423 - INFO - [main.py] - start program
+2026-05-28 10:31:00,678 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:31:00,678 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:31:00,679 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:31:19,451 - INFO - [main.py] - start program
+2026-05-28 10:31:20,893 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:31:20,893 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:31:20,894 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:31:26,702 - INFO - [main.py] - start program
+2026-05-28 10:31:39,470 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:31:39,470 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:31:39,470 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:31:39,471 - INFO - [main.py] - start program
+2026-05-28 10:31:45,680 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:31:45,681 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:31:45,681 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:31:45,681 - INFO - [main.py] - start program
+2026-05-28 10:33:42,108 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:33:42,109 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:33:42,109 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:33:42,109 - INFO - [main.py] - start program
+2026-05-28 10:34:05,050 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:34:05,050 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:34:05,050 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:34:05,051 - INFO - [main.py] - start program
+2026-05-28 10:34:11,868 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:34:11,868 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:34:11,868 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:34:11,869 - INFO - [main.py] - start program
+2026-05-28 10:35:33,427 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:35:33,428 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:35:33,428 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:35:33,428 - INFO - [main.py] - start program
+2026-05-28 10:35:34,177 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:35:34,177 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:35:34,177 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:35:34,177 - INFO - [main.py] - start program
+2026-05-28 10:35:39,565 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:35:39,565 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:35:39,566 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:35:51,320 - INFO - [main.py] - start program
+2026-05-28 10:35:58,200 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:35:58,200 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:35:58,201 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:35:58,201 - INFO - [main.py] - start program
+2026-05-28 10:43:02,347 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:43:02,348 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:43:02,349 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:43:02,349 - INFO - [main.py] - start program
+2026-05-28 10:43:06,894 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:43:06,894 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:43:06,894 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:43:06,895 - INFO - [main.py] - start program
+2026-05-28 10:43:09,522 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:43:09,523 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:43:09,523 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:43:09,523 - INFO - [main.py] - start program
+2026-05-28 10:43:20,908 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:43:20,908 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:43:20,909 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:43:20,909 - INFO - [main.py] - start program
+2026-05-28 10:43:21,276 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:43:21,282 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:43:21,282 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:43:21,282 - INFO - [main.py] - start program
+2026-05-28 10:43:24,643 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:43:24,643 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:43:24,644 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:43:30,901 - INFO - [main.py] - start program
+2026-05-28 10:43:37,081 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:43:37,081 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:43:37,081 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:43:37,082 - INFO - [main.py] - start program
+2026-05-28 10:43:58,665 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:43:58,665 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:43:58,666 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:43:58,666 - INFO - [main.py] - start program
+2026-05-28 10:45:44,430 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-28 10:45:44,431 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:45:44,431 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:45:44,431 - INFO - [main.py] - start program
+2026-05-28 10:45:46,310 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-28 10:45:46,311 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:45:46,311 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:45:46,311 - INFO - [main.py] - start program
+2026-05-28 10:45:46,593 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-28 10:45:46,593 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:45:46,594 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:45:46,594 - INFO - [main.py] - start program
+2026-05-28 10:45:46,745 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/circle.py
+2026-05-28 10:45:46,745 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:45:46,746 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:45:46,746 - INFO - [main.py] - start program
+2026-05-28 10:49:14,198 - INFO - [main.py] - start program
+2026-05-28 10:49:18,149 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:49:18,149 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:49:18,149 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:49:18,149 - INFO - [main.py] - start program
+2026-05-28 10:49:24,585 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:49:24,585 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:49:24,585 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:49:24,586 - INFO - [main.py] - start program
+2026-05-28 10:49:29,298 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:49:29,298 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:49:29,298 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:49:34,444 - INFO - [main.py] - start program
+2026-05-28 10:49:39,410 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:49:39,410 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:49:39,410 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:49:39,411 - INFO - [main.py] - start program
+2026-05-28 10:50:59,744 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape.py
+2026-05-28 10:50:59,745 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:50:59,745 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:50:59,746 - INFO - [main.py] - start program
+2026-05-28 10:51:04,492 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:51:04,492 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:51:04,493 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:51:04,493 - INFO - [main.py] - start program
+2026-05-28 10:51:09,340 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:51:09,340 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:51:09,340 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:51:09,341 - INFO - [main.py] - start program
+2026-05-28 10:51:48,645 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-28 10:51:48,645 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:51:48,646 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:51:48,646 - INFO - [main.py] - start program
+2026-05-28 10:52:13,712 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-28 10:52:13,713 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:52:13,713 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:52:13,713 - INFO - [main.py] - start program
+2026-05-28 10:52:14,561 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-28 10:52:14,562 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:52:14,562 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:52:14,562 - INFO - [main.py] - start program
+2026-05-28 10:52:15,078 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-28 10:52:15,078 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:52:15,078 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:52:15,079 - INFO - [main.py] - start program
+2026-05-28 10:52:15,418 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-28 10:52:15,418 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:52:15,418 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:52:15,418 - INFO - [main.py] - start program
+2026-05-28 10:52:15,601 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-28 10:52:15,601 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:52:15,602 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:52:15,602 - INFO - [main.py] - start program
+2026-05-28 10:52:15,752 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-28 10:52:15,753 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:52:15,753 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:52:15,753 - INFO - [main.py] - start program
+2026-05-28 10:52:16,661 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/shape_manager.py
+2026-05-28 10:52:16,662 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:52:16,662 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:52:16,662 - INFO - [main.py] - start program
+2026-05-28 10:54:56,427 - INFO - [main.py] - start program
+2026-05-28 10:54:59,032 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:54:59,032 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:54:59,033 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:54:59,033 - INFO - [main.py] - start program
+2026-05-28 10:55:02,622 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:55:02,622 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:55:02,623 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:55:40,493 - INFO - [main.py] - start program
+2026-05-28 10:55:42,052 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:55:42,052 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:55:42,053 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:55:46,911 - INFO - [main.py] - start program
+2026-05-28 10:55:49,273 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:55:49,274 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:55:49,274 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:55:49,274 - INFO - [main.py] - start program
+2026-05-28 10:56:01,291 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:56:01,292 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:56:01,292 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:56:06,847 - INFO - [main.py] - start program
+2026-05-28 10:56:15,233 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:56:15,233 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:56:15,233 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:56:15,233 - INFO - [main.py] - start program
+2026-05-28 10:56:24,356 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:56:24,357 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:56:24,357 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:56:24,357 - INFO - [main.py] - start program
+2026-05-28 10:56:27,558 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:56:27,558 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:56:27,558 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:56:27,559 - INFO - [main.py] - start program
+2026-05-28 10:58:57,847 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 10:58:57,847 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:58:57,847 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 10:58:57,848 - INFO - [main.py] - start program
+2026-05-28 10:59:00,036 - DEBUG - [main.py] - the user input is 1
+2026-05-28 10:59:00,036 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:59:00,037 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:59:03,985 - INFO - [main.py] - start program
+2026-05-28 10:59:05,446 - DEBUG - [main.py] - the user input is 2
+2026-05-28 10:59:05,446 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:59:05,446 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:59:05,447 - INFO - [main.py] - start program
+2026-05-28 10:59:08,400 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:59:08,400 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:59:08,400 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:59:08,401 - INFO - [main.py] - start program
+2026-05-28 10:59:26,102 - DEBUG - [main.py] - the user input is 3
+2026-05-28 10:59:26,103 - INFO - [main.py] - start checking user menu input
+2026-05-28 10:59:26,103 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 10:59:26,103 - INFO - [main.py] - start program
+2026-05-28 11:00:18,100 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:00:18,100 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:00:18,100 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:00:18,101 - INFO - [main.py] - start program
+2026-05-28 11:00:20,050 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:00:20,050 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:00:20,050 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:00:24,331 - INFO - [main.py] - start program
+2026-05-28 11:00:25,671 - DEBUG - [main.py] - the user input is 3
+2026-05-28 11:00:25,672 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:00:25,672 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:00:25,673 - INFO - [main.py] - start program
+2026-05-28 11:00:32,730 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:00:32,730 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:00:32,730 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:00:32,731 - INFO - [main.py] - start program
+2026-05-28 11:00:38,213 - DEBUG - [main.py] - the user input is 3
+2026-05-28 11:00:38,213 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:00:38,214 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:00:38,215 - INFO - [main.py] - start program
+2026-05-28 11:01:20,382 - INFO - [main.py] - start program
+2026-05-28 11:01:31,036 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:01:31,037 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:01:31,037 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:02:30,324 - INFO - [main.py] - start program
+2026-05-28 11:02:36,896 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:02:36,897 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:02:36,897 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:02:43,738 - INFO - [main.py] - start program
+2026-05-28 11:02:52,913 - DEBUG - [main.py] - the user input is 3
+2026-05-28 11:02:52,914 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:02:52,914 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:07:08,471 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:07:08,472 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:07:08,472 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:07:08,472 - INFO - [main.py] - start program
+2026-05-28 11:07:11,282 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:07:11,282 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:07:11,283 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:07:14,673 - INFO - [main.py] - start program
+2026-05-28 11:07:15,651 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:07:15,652 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:07:15,652 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:07:15,653 - INFO - [main.py] - start program
+2026-05-28 11:07:18,491 - DEBUG - [main.py] - the user input is 3
+2026-05-28 11:07:18,491 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:07:18,491 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:07:18,492 - INFO - [main.py] - start program
+2026-05-28 11:07:28,432 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:07:28,432 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:07:28,432 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:07:28,433 - INFO - [main.py] - start program
+2026-05-28 11:13:07,533 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:13:07,533 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:13:07,533 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:13:07,534 - INFO - [main.py] - start program
+2026-05-28 11:13:26,478 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:13:26,479 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:13:26,479 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:13:31,815 - INFO - [main.py] - start program
+2026-05-28 11:13:33,168 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:13:33,169 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:13:33,169 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:13:33,172 - INFO - [main.py] - start program
+2026-05-28 11:13:36,690 - DEBUG - [main.py] - the user input is 3
+2026-05-28 11:13:36,690 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:13:36,690 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:13:36,691 - INFO - [main.py] - start program
+2026-05-28 11:17:20,800 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:17:20,800 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:17:20,801 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:17:20,801 - INFO - [main.py] - start program
+2026-05-28 11:17:28,090 - INFO - [main.py] - start program
+2026-05-28 11:17:29,562 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:17:29,562 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:17:29,562 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:17:33,279 - INFO - [main.py] - start program
+2026-05-28 11:17:34,547 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:17:34,547 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:17:34,547 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:17:34,548 - INFO - [main.py] - start program
+2026-05-28 11:17:38,465 - DEBUG - [main.py] - the user input is 3
+2026-05-28 11:17:38,465 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:17:38,465 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:17:38,467 - INFO - [main.py] - start program
+2026-05-28 11:19:43,346 - INFO - [main.py] - start program
+2026-05-28 11:19:46,315 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:19:46,315 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:19:46,315 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:19:56,133 - INFO - [main.py] - start program
+2026-05-28 11:19:58,112 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:19:58,112 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:19:58,112 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:19:58,113 - INFO - [main.py] - start program
+2026-05-28 11:20:07,084 - DEBUG - [main.py] - the user input is 4
+2026-05-28 11:20:07,085 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:20:07,085 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:20:28,455 - INFO - [main.py] - start program
+2026-05-28 11:20:36,807 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:20:36,810 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:20:36,811 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:20:36,811 - INFO - [main.py] - start program
+2026-05-28 11:20:41,341 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:20:41,341 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:20:41,341 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:20:48,902 - INFO - [main.py] - start program
+2026-05-28 11:20:50,405 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:20:50,405 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:20:50,405 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:20:50,406 - INFO - [main.py] - start program
+2026-05-28 11:21:05,716 - DEBUG - [main.py] - the user input is 4
+2026-05-28 11:21:05,716 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:21:05,717 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:21:10,972 - INFO - [main.py] - start program
+2026-05-28 11:21:44,165 - DEBUG - [main.py] - the user input is 24
+2026-05-28 11:21:44,165 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:21:44,192 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter number not allowed
+2026-05-28 11:21:44,192 - INFO - [main.py] - start program
+2026-05-28 11:21:45,424 - DEBUG - [main.py] - the user input is 4
+2026-05-28 11:21:45,425 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:21:45,425 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:21:49,254 - INFO - [main.py] - start program
+2026-05-28 11:21:56,443 - DEBUG - [main.py] - the user input is 4
+2026-05-28 11:21:56,444 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:21:56,444 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:21:58,485 - INFO - [main.py] - start program
+2026-05-28 11:25:31,114 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:25:31,115 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:25:31,115 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:25:31,116 - INFO - [main.py] - start program
+2026-05-28 11:25:36,352 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:25:36,352 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:25:36,352 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:25:36,352 - INFO - [main.py] - start program
+2026-05-28 11:25:38,105 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:25:38,106 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:25:38,106 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:25:43,120 - INFO - [main.py] - start program
+2026-05-28 11:25:47,888 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:25:47,888 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:25:47,888 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:25:47,889 - INFO - [main.py] - start program
+2026-05-28 11:25:54,461 - DEBUG - [main.py] - the user input is 3
+2026-05-28 11:25:54,461 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:25:54,461 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:26:29,444 - INFO - [main.py] - start program
+2026-05-28 11:26:31,477 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:26:31,477 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:26:31,477 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:26:31,478 - INFO - [main.py] - start program
+2026-05-28 11:26:49,448 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:26:49,448 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:26:49,449 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:26:54,562 - INFO - [main.py] - start program
+2026-05-28 11:26:56,346 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:26:56,346 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:26:56,347 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:26:56,347 - INFO - [main.py] - start program
+2026-05-28 11:27:03,003 - DEBUG - [main.py] - the user input is 3
+2026-05-28 11:27:03,004 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:27:03,004 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:27:10,888 - INFO - [main.py] - start program
+2026-05-28 11:27:11,725 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:27:11,725 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:27:11,725 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:27:11,726 - INFO - [main.py] - start program
+2026-05-28 11:27:55,232 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:27:55,232 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:27:55,233 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:27:55,233 - INFO - [main.py] - start program
+2026-05-28 11:28:00,279 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:28:00,279 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:28:00,279 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:28:00,280 - INFO - [main.py] - start program
+2026-05-28 11:28:07,062 - INFO - [main.py] - start program
+2026-05-28 11:28:08,976 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:28:08,977 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:28:08,977 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:28:08,977 - INFO - [main.py] - start program
+2026-05-28 11:28:14,381 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:28:14,382 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:28:14,382 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:28:21,348 - INFO - [main.py] - start program
+2026-05-28 11:28:22,528 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:28:22,528 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:28:22,528 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:28:22,529 - INFO - [main.py] - start program
+2026-05-28 11:28:25,876 - DEBUG - [main.py] - the user input is 3
+2026-05-28 11:28:25,876 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:28:25,876 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:28:32,640 - INFO - [main.py] - start program
+2026-05-28 11:30:38,345 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:30:38,345 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:30:38,346 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:30:38,346 - INFO - [main.py] - start program
+2026-05-28 11:30:41,856 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:30:41,857 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:30:41,857 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:30:41,857 - INFO - [main.py] - start program
+2026-05-28 11:30:49,845 - DEBUG - [main.py] - the user input is 3
+2026-05-28 11:30:49,845 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:30:49,846 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:30:54,573 - INFO - [main.py] - start program
+2026-05-28 11:30:59,534 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:30:59,535 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:30:59,535 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:30:59,535 - INFO - [main.py] - start program
+2026-05-28 11:31:07,522 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:31:07,522 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:31:07,522 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:31:07,523 - INFO - [main.py] - start program
+2026-05-28 11:31:10,084 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:31:10,084 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:31:10,084 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:31:14,499 - INFO - [main.py] - start program
+2026-05-28 11:31:16,739 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:31:16,740 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:31:16,740 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:31:16,741 - INFO - [main.py] - start program
+2026-05-28 11:31:19,564 - DEBUG - [main.py] - the user input is 3
+2026-05-28 11:31:19,564 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:31:19,565 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:31:24,469 - INFO - [main.py] - start program
+2026-05-28 11:31:28,092 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:31:28,092 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:31:28,093 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:31:28,093 - INFO - [main.py] - start program
+2026-05-28 11:31:39,779 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:31:39,780 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:31:39,780 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:31:39,781 - INFO - [main.py] - start program
+2026-05-28 11:31:51,626 - INFO - [main.py] - start program
+2026-05-28 11:31:53,366 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:31:53,366 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:31:53,367 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:31:58,052 - INFO - [main.py] - start program
+2026-05-28 11:31:59,331 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:31:59,332 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:31:59,332 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:31:59,333 - INFO - [main.py] - start program
+2026-05-28 11:32:01,745 - DEBUG - [main.py] - the user input is 3
+2026-05-28 11:32:01,745 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:32:01,745 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:32:06,837 - INFO - [main.py] - start program
+2026-05-28 11:32:08,075 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:32:08,075 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:32:08,076 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:32:08,076 - INFO - [main.py] - start program
+2026-05-28 11:32:16,859 - DEBUG - [main.py] - the user input is 2
+2026-05-28 11:32:16,860 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:32:16,860 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:32:16,861 - INFO - [main.py] - start program
+2026-05-28 11:56:03,776 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:56:03,776 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:56:03,776 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:56:03,776 - INFO - [main.py] - start program
+2026-05-28 11:56:10,117 - DEBUG - [main.py] - the user input is 1
+2026-05-28 11:56:10,117 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:56:10,117 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 11:56:12,019 - INFO - [main.py] - start program
+2026-05-28 11:57:28,455 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:57:28,455 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:57:28,456 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:57:28,456 - INFO - [main.py] - start program
+2026-05-28 11:57:30,372 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:57:30,372 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:57:30,372 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:57:30,372 - INFO - [main.py] - start program
+2026-05-28 11:57:30,607 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:57:30,607 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:57:30,607 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:57:30,607 - INFO - [main.py] - start program
+2026-05-28 11:57:30,753 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:57:30,753 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:57:30,753 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:57:30,754 - INFO - [main.py] - start program
+2026-05-28 11:57:42,789 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:57:42,789 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:57:42,789 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:57:42,789 - INFO - [main.py] - start program
+2026-05-28 11:57:44,305 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:57:44,306 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:57:44,306 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:57:44,306 - INFO - [main.py] - start program
+2026-05-28 11:57:44,456 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:57:44,457 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:57:44,457 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:57:44,457 - INFO - [main.py] - start program
+2026-05-28 11:57:44,606 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:57:44,607 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:57:44,607 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:57:44,607 - INFO - [main.py] - start program
+2026-05-28 11:57:49,973 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:57:49,973 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:57:49,973 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:57:49,973 - INFO - [main.py] - start program
+2026-05-28 11:57:51,345 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 11:57:51,345 - INFO - [main.py] - start checking user menu input
+2026-05-28 11:57:51,345 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 11:57:51,345 - INFO - [main.py] - start program
+2026-05-28 11:58:01,220 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 11:58:06,122 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 11:58:06,122 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 11:58:07,865 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 11:58:07,866 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 11:58:08,589 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 11:58:08,590 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 11:58:08,975 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 11:58:08,975 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 11:58:10,713 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 11:58:10,713 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 12:00:14,327 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:00:14,327 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 12:00:18,683 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:00:18,684 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 12:00:36,409 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 12:00:41,618 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:00:41,618 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 12:00:45,054 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:00:45,054 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 12:01:44,205 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:01:44,205 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 12:01:48,111 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:01:48,112 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 12:01:51,311 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:01:51,311 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 12:01:51,780 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:01:51,780 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 12:01:52,753 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:01:52,753 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 12:01:53,694 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:01:53,694 - INFO - [main.py] - start user input loop in shape menu 
+2026-05-28 12:01:58,660 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:02:00,967 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:02:00,968 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:03:05,252 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:03:05,253 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:04:35,960 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:04:35,960 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:04:40,852 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:05:46,821 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:05:48,271 - ERROR - [main.py] - error only numbers 1 - 3 allowed
+2026-05-28 12:05:48,271 - ERROR - [main.py] -  error only numbers 1 - 3 allowed
+2026-05-28 12:05:48,272 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:06:23,841 - ERROR - [main.py] - invalid literal for int() with base 10: '& C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py'
+2026-05-28 12:06:23,841 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:06:27,246 - ERROR - [main.py] - invalid literal for int() with base 10: 'r'
+2026-05-28 12:06:27,246 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:06:36,819 - ERROR - [main.py] - error only numbers 1 - 3 allowed
+2026-05-28 12:06:36,820 - ERROR - [main.py] -  error only numbers 1 - 3 allowed
+2026-05-28 12:06:36,820 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:06:39,916 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:10:10,195 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:10:14,646 - ERROR - [main.py] - error only numbers 1 - 3 allowed
+2026-05-28 12:10:14,646 - ERROR - [main.py] - error user input is letters not numbers
+2026-05-28 12:10:14,646 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:12:09,058 - ERROR - [main.py] - error user input is letters not numbers
+2026-05-28 12:12:09,058 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:12:11,236 - ERROR - [main.py] - error only numbers 1 - 3 allowed
+2026-05-28 12:12:11,236 - ERROR - [main.py] - error user input is letters not numbers
+2026-05-28 12:12:11,236 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:12:30,329 - ERROR - [main.py] - error user input is letters not numbers
+2026-05-28 12:12:30,329 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:12:35,499 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:12:38,310 - ERROR - [main.py] - error the user enter wrong number
+2026-05-28 12:12:38,311 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:13:12,121 - ERROR - [main.py] - error user input is letters not numbers
+2026-05-28 12:13:12,121 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:23:59,535 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:24:07,411 - ERROR - [main.py] - error user input is letters not numbers
+2026-05-28 12:24:07,412 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:24:10,775 - INFO - [main.py] - start program
+2026-05-28 12:24:15,790 - DEBUG - [main.py] - the user input is 7
+2026-05-28 12:24:15,791 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:24:15,791 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter number not allowed
+2026-05-28 12:24:15,791 - INFO - [main.py] - start program
+2026-05-28 12:24:16,766 - DEBUG - [main.py] - the user input is 7
+2026-05-28 12:24:16,766 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:24:16,766 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter number not allowed
+2026-05-28 12:24:16,766 - INFO - [main.py] - start program
+2026-05-28 12:24:49,681 - DEBUG - [main.py] - the user input is 1
+2026-05-28 12:24:49,681 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:24:49,681 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:24:49,681 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:24:51,454 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:24:51,454 - INFO - [main.py] - start program
+2026-05-28 12:25:01,071 - DEBUG - [main.py] - the user input is 1
+2026-05-28 12:25:01,071 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:25:01,071 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:25:01,071 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:25:04,890 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:25:04,890 - INFO - [main.py] - start program
+2026-05-28 12:25:38,934 - DEBUG - [main.py] - the user input is 1
+2026-05-28 12:25:38,935 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:25:38,935 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:25:38,936 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:25:47,962 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:25:47,962 - INFO - [main.py] - start program
+2026-05-28 12:27:15,079 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 12:27:15,079 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:27:15,079 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 12:27:15,079 - INFO - [main.py] - start program
+2026-05-28 12:27:19,589 - DEBUG - [main.py] - the user input is 1
+2026-05-28 12:27:19,589 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:27:19,589 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:27:19,590 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:27:20,104 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:27:20,104 - INFO - [main.py] - start program
+2026-05-28 12:27:30,596 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 12:27:30,596 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:27:30,596 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 12:27:30,597 - INFO - [main.py] - start program
+2026-05-28 12:27:33,669 - INFO - [main.py] - start program
+2026-05-28 12:27:39,190 - DEBUG - [main.py] - the user input is 1
+2026-05-28 12:27:39,191 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:27:39,191 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:27:39,192 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:27:42,339 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:27:50,870 - ERROR - [main.py] - user enter letter only numbers allowed
+2026-05-28 12:27:50,871 - INFO - [main.py] - start program
+2026-05-28 12:42:39,382 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 12:42:39,382 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:42:39,382 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 12:42:39,383 - INFO - [main.py] - start program
+2026-05-28 12:42:42,802 - INFO - [main.py] - start program
+2026-05-28 12:42:44,984 - DEBUG - [main.py] - the user input is 1
+2026-05-28 12:42:44,985 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:42:44,985 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:42:44,985 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:42:46,952 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:42:54,457 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-28 12:42:54,458 - INFO - [main.py] - start program
+2026-05-28 12:42:58,345 - DEBUG - [main.py] - the user input is 2
+2026-05-28 12:42:58,345 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:42:58,345 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:42:58,345 - INFO - [main.py] - start program
+2026-05-28 12:43:07,372 - DEBUG - [main.py] - the user input is 2
+2026-05-28 12:43:07,372 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:43:07,372 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:43:07,373 - INFO - [main.py] - start program
+2026-05-28 12:43:12,540 - DEBUG - [main.py] - the user input is 1
+2026-05-28 12:43:12,540 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:43:12,540 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:43:12,541 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:43:13,433 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:43:18,704 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-28 12:43:18,705 - INFO - [main.py] - start program
+2026-05-28 12:43:19,490 - DEBUG - [main.py] - the user input is 2
+2026-05-28 12:43:19,490 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:43:19,490 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:43:19,490 - INFO - [main.py] - start program
+2026-05-28 12:43:35,297 - DEBUG - [main.py] - the user input is 2
+2026-05-28 12:43:35,297 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:43:35,297 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:43:35,297 - INFO - [main.py] - start program
+2026-05-28 12:44:52,816 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 12:44:52,816 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:44:52,816 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 12:44:52,816 - INFO - [main.py] - start program
+2026-05-28 12:44:56,112 - INFO - [main.py] - start program
+2026-05-28 12:44:57,799 - DEBUG - [main.py] - the user input is 1
+2026-05-28 12:44:57,800 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:44:57,800 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:44:57,800 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:44:58,531 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:45:01,596 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-28 12:45:01,596 - INFO - [main.py] - start program
+2026-05-28 12:45:05,896 - DEBUG - [main.py] - the user input is 2
+2026-05-28 12:45:05,896 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:45:05,896 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:45:05,896 - INFO - [main.py] - start program
+2026-05-28 12:45:10,624 - DEBUG - [main.py] - the user input is 2
+2026-05-28 12:45:10,625 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:45:10,625 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:45:10,625 - INFO - [main.py] - start program
+2026-05-28 12:46:03,515 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 12:46:03,515 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:46:03,515 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 12:46:03,516 - INFO - [main.py] - start program
+2026-05-28 12:46:07,725 - DEBUG - [main.py] - the user input is 1
+2026-05-28 12:46:07,725 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:46:07,725 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:46:07,726 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:46:08,746 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:46:12,700 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-28 12:46:12,701 - INFO - [main.py] - start program
+2026-05-28 12:46:14,083 - DEBUG - [main.py] - the user input is 2
+2026-05-28 12:46:14,084 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:46:14,084 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:46:14,084 - INFO - [main.py] - start program
+2026-05-28 12:46:44,251 - INFO - [main.py] - start program
+2026-05-28 12:46:48,426 - DEBUG - [main.py] - the user input is 1
+2026-05-28 12:46:48,426 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:46:48,426 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:46:48,427 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:46:56,682 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:47:03,297 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-28 12:47:03,298 - INFO - [main.py] - start program
+2026-05-28 12:47:14,570 - INFO - [main.py] - start program
+2026-05-28 12:47:21,581 - DEBUG - [main.py] - the user input is 1
+2026-05-28 12:47:21,581 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:47:21,582 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:47:25,656 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:47:29,197 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:47:56,697 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-28 12:48:17,805 - INFO - [main.py] - start program
+2026-05-28 12:48:24,029 - DEBUG - [main.py] - the user input is 1
+2026-05-28 12:48:24,029 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:48:24,030 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 12:48:25,002 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 12:48:27,106 - INFO - [main.py] - success user enter allowed numbers
+2026-05-28 12:48:47,622 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-28 12:56:06,836 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 12:56:06,837 - INFO - [main.py] - start checking user menu input
+2026-05-28 12:56:06,837 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 12:56:06,837 - INFO - [main.py] - start program
+2026-05-28 12:56:13,418 - INFO - [main.py] - start program
+2026-05-28 13:01:29,368 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-28 13:01:29,368 - INFO - [main.py] - start checking user menu input
+2026-05-28 13:01:29,369 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-28 13:01:29,369 - INFO - [main.py] - start program
+2026-05-28 13:01:33,011 - INFO - [main.py] - start program
+2026-05-28 13:01:35,370 - DEBUG - [main.py] - the user input is 1
+2026-05-28 13:01:35,370 - INFO - [main.py] - start checking user menu input
+2026-05-28 13:01:35,370 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-28 13:01:35,371 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-28 13:01:36,592 - INFO - [main.py] - success user enter allowed numbers
+2026-05-29 09:37:03,156 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 09:37:03,163 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 09:37:03,164 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 09:37:37,926 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 09:37:37,928 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 09:37:37,929 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 09:37:55,125 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 09:37:55,127 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 09:37:55,129 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 09:38:38,604 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 09:38:38,606 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 09:38:38,609 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 10:40:12,887 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 10:40:12,890 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 10:40:12,892 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 10:54:38,385 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 10:54:38,387 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 10:54:38,388 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 10:54:47,146 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 10:54:47,149 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 10:54:47,152 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 10:55:01,243 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 10:55:01,245 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 10:55:01,245 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 11:05:02,362 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:05:02,364 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:05:02,365 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 11:05:12,294 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:05:12,296 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:05:12,298 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:05:12,299 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 11:05:35,879 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:05:35,881 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:05:35,883 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:05:35,886 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:12,379 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:12,382 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:12,384 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:12,387 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:13,657 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:13,660 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:13,662 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:13,664 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:14,312 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:14,315 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:14,317 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:14,320 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:14,907 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:14,910 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:14,912 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:06:14,916 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:11:24,691 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:11:24,694 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:11:24,694 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 11:11:34,108 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:11:34,110 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:11:34,112 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:13:55,797 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:13:55,799 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:13:55,801 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:13:56,863 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:13:56,866 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:13:56,868 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:00,006 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:00,010 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:00,012 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:00,899 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:00,902 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:00,905 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:01,236 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:01,240 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:01,242 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:16,158 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:16,161 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:16,163 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:16,950 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:16,953 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:14:16,956 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:15:33,190 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:15:33,193 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:15:33,193 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 11:15:45,728 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:15:45,731 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:15:45,733 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:15:53,783 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:15:53,786 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:15:53,789 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:15:53,789 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 11:16:17,964 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:16:17,966 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:16:17,969 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:16:17,972 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:16:17,972 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 11:16:55,643 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:16:55,645 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:16:55,648 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:16:55,651 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:17:53,997 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:17:54,000 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:17:54,002 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:17:54,006 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:17:54,006 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 11:18:07,119 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:18:07,122 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:18:07,124 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:18:07,127 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:18:07,127 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 11:18:46,906 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:18:46,910 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:39:55,756 - INFO - [main.py] - start program
+2026-05-29 11:39:58,021 - DEBUG - [main.py] - the user input is 1
+2026-05-29 11:39:58,022 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:39:58,022 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:39:58,022 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 11:40:04,921 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:40:04,924 - INFO - [main.py] - start program
+2026-05-29 11:40:06,847 - DEBUG - [main.py] - the user input is 2
+2026-05-29 11:40:06,848 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:40:06,848 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:40:06,848 - INFO - [main.py] - start program
+2026-05-29 11:40:15,058 - DEBUG - [main.py] - the user input is 3
+2026-05-29 11:40:15,058 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:40:15,058 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:40:23,848 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:40:23,848 - ERROR - [main.py] - error the id not exists
+2026-05-29 11:40:23,849 - INFO - [main.py] - start program
+2026-05-29 11:40:31,946 - DEBUG - [main.py] - the user input is 2
+2026-05-29 11:40:31,947 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:40:31,947 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:40:31,947 - INFO - [main.py] - start program
+2026-05-29 11:41:59,330 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:41:59,331 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:41:59,331 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:41:59,331 - INFO - [main.py] - start program
+2026-05-29 11:42:01,230 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:42:01,230 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:42:01,231 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:42:01,231 - INFO - [main.py] - start program
+2026-05-29 11:42:02,063 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:42:02,063 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:42:02,063 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:42:02,064 - INFO - [main.py] - start program
+2026-05-29 11:42:06,454 - INFO - [main.py] - start program
+2026-05-29 11:42:07,978 - DEBUG - [main.py] - the user input is 1
+2026-05-29 11:42:07,979 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:42:07,979 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:42:07,979 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 11:42:11,663 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:42:11,666 - INFO - [main.py] - start program
+2026-05-29 11:42:13,169 - DEBUG - [main.py] - the user input is 2
+2026-05-29 11:42:13,169 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:42:13,170 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:42:13,170 - INFO - [main.py] - start program
+2026-05-29 11:42:16,873 - DEBUG - [main.py] - the user input is 3
+2026-05-29 11:42:16,874 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:42:16,874 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:42:19,924 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:42:19,925 - ERROR - [main.py] - error the id not exists
+2026-05-29 11:42:19,925 - INFO - [main.py] - start program
+2026-05-29 11:42:22,186 - DEBUG - [main.py] - the user input is 2
+2026-05-29 11:42:22,187 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:42:22,187 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:42:22,187 - INFO - [main.py] - start program
+2026-05-29 11:42:56,563 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:42:56,564 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:42:56,564 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:42:56,565 - INFO - [main.py] - start program
+2026-05-29 11:42:58,615 - DEBUG - [main.py] - the user input is 1
+2026-05-29 11:42:58,615 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:42:58,615 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:42:58,616 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 11:43:01,093 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:43:01,093 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 11:43:01,093 - ERROR - [main.py] - error the id already exists
+2026-05-29 11:43:01,093 - INFO - [main.py] - start program
+2026-05-29 11:43:02,907 - DEBUG - [main.py] - the user input is 2
+2026-05-29 11:43:02,908 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:43:02,908 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:43:02,909 - INFO - [main.py] - start program
+2026-05-29 11:43:06,032 - DEBUG - [main.py] - the user input is 3
+2026-05-29 11:43:06,032 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:43:06,032 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:43:09,222 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:43:09,222 - ERROR - [main.py] - error the id not exists
+2026-05-29 11:43:09,222 - INFO - [main.py] - start program
+2026-05-29 11:43:31,236 - INFO - [main.py] - start program
+2026-05-29 11:43:32,845 - DEBUG - [main.py] - the user input is 1
+2026-05-29 11:43:32,845 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:43:32,845 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:43:32,846 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 11:43:36,187 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:43:36,190 - INFO - [main.py] - start program
+2026-05-29 11:43:39,018 - DEBUG - [main.py] - the user input is 2
+2026-05-29 11:43:39,018 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:43:39,018 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:43:39,018 - INFO - [main.py] - start program
+2026-05-29 11:43:42,205 - DEBUG - [main.py] - the user input is 3
+2026-05-29 11:43:42,206 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:43:42,206 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:43:45,939 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:43:45,939 - ERROR - [main.py] - error the id not exists
+2026-05-29 11:43:45,939 - INFO - [main.py] - start program
+2026-05-29 11:45:29,883 - INFO - [main.py] - start program
+2026-05-29 11:45:33,628 - DEBUG - [main.py] - the user input is 1
+2026-05-29 11:45:33,629 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:45:33,629 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:45:33,630 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 11:45:40,675 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:45:40,680 - INFO - [main.py] - start program
+2026-05-29 11:45:45,196 - DEBUG - [main.py] - the user input is 2
+2026-05-29 11:45:45,197 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:45:45,197 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:45:45,197 - INFO - [main.py] - start program
+2026-05-29 11:45:49,947 - DEBUG - [main.py] - the user input is 3
+2026-05-29 11:45:49,948 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:45:49,948 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:46:06,411 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:46:06,412 - ERROR - [main.py] - error the id not exists
+2026-05-29 11:46:06,412 - INFO - [main.py] - start program
+2026-05-29 11:46:33,734 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:46:33,734 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:46:33,734 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:46:33,734 - INFO - [main.py] - start program
+2026-05-29 11:46:35,862 - DEBUG - [main.py] - the user input is 1
+2026-05-29 11:46:35,863 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:46:35,863 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:46:35,863 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 11:46:50,133 - INFO - [main.py] - start program
+2026-05-29 11:46:55,312 - DEBUG - [main.py] - the user input is 1
+2026-05-29 11:46:55,312 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:46:55,312 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:46:55,313 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 11:47:05,480 - INFO - [main.py] - start program
+2026-05-29 11:47:15,275 - INFO - [main.py] - start program
+2026-05-29 11:47:20,777 - DEBUG - [main.py] - the user input is 1
+2026-05-29 11:47:20,777 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:47:20,778 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:47:23,201 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 11:47:36,973 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:47:40,226 - INFO - [main.py] - start program
+2026-05-29 11:47:47,471 - DEBUG - [main.py] - the user input is 3
+2026-05-29 11:47:47,471 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:47:47,471 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 11:48:45,689 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:48:47,564 - ERROR - [main.py] - error the id not exists
+2026-05-29 11:48:47,564 - INFO - [main.py] - start program
+2026-05-29 11:51:58,263 - ERROR - [main.py] - you enter letters only numbers allowed!!! 
+2026-05-29 11:51:58,263 - INFO - [main.py] - start program
+2026-05-29 11:52:02,530 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:52:02,530 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:52:02,530 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:52:02,530 - INFO - [main.py] - start program
+2026-05-29 11:52:02,976 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:52:02,976 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:52:02,976 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:52:02,976 - INFO - [main.py] - start program
+2026-05-29 11:52:03,132 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:52:03,133 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:52:03,133 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:52:03,133 - INFO - [main.py] - start program
+2026-05-29 11:52:03,293 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:52:03,293 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:52:03,293 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:52:03,293 - INFO - [main.py] - start program
+2026-05-29 11:52:03,444 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:52:03,444 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:52:03,444 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:52:03,444 - INFO - [main.py] - start program
+2026-05-29 11:52:03,613 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:52:03,614 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:52:03,614 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:52:03,614 - INFO - [main.py] - start program
+2026-05-29 11:52:16,709 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py& C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:52:16,710 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:52:16,710 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:52:16,710 - INFO - [main.py] - start program
+2026-05-29 11:52:17,315 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:52:17,315 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:52:17,315 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:52:17,315 - INFO - [main.py] - start program
+2026-05-29 11:52:17,574 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:52:17,574 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:52:17,574 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:52:17,574 - INFO - [main.py] - start program
+2026-05-29 11:52:18,060 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:52:18,060 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:52:18,061 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:52:18,061 - INFO - [main.py] - start program
+2026-05-29 11:52:18,281 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:52:18,281 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:52:18,281 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:52:18,281 - INFO - [main.py] - start program
+2026-05-29 11:52:18,481 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 11:52:18,481 - INFO - [main.py] - start checking user menu input
+2026-05-29 11:52:18,481 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 11:52:18,481 - INFO - [main.py] - start program
+2026-05-29 11:52:20,702 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:52:20,704 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:52:20,705 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:52:20,706 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 11:52:20,706 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 12:09:35,980 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:09:35,982 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:09:35,982 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:09:35,982 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:09:35,982 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:09:35,983 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:09:35,983 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:09:35,984 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:09:35,985 - INFO - [shape_manager.py] - saved shape in the list 
+2026-05-29 12:09:35,985 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:09:35,985 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:09:35,985 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:09:35,985 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:09:35,985 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:09:35,987 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:09:35,987 - INFO - [shape_manager.py] - saved shape in the list 
+2026-05-29 12:09:35,987 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:09:35,987 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:09:35,987 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:09:35,988 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:09:35,988 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:09:35,989 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:09:35,989 - INFO - [shape_manager.py] - saved shape in the list 
+2026-05-29 12:09:35,989 - INFO - [shape_manager.py] - start printing data
+2026-05-29 12:09:35,990 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 12:09:35,990 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:09:35,990 - INFO - [shape_manager.py] - start updating data...
+2026-05-29 12:09:35,990 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:09:35,990 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:09:35,990 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:09:35,990 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:09:35,992 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:09:35,992 - INFO - [shape_manager.py] - success the shape updated
+2026-05-29 12:09:35,992 - INFO - [shape_manager.py] - start printing data
+2026-05-29 12:09:35,992 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 12:09:44,469 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:09:44,472 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:09:45,780 - INFO - [main.py] - start program
+2026-05-29 12:09:50,683 - DEBUG - [main.py] - the user input is 1
+2026-05-29 12:09:50,683 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:09:50,684 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:09:57,451 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 12:11:23,143 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:11:59,320 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:12:09,882 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:12:09,882 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:12:57,611 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:17:02,283 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:17:36,693 - INFO - [shape_manager.py] - saved shape in the list 
+2026-05-29 12:18:04,877 - INFO - [main.py] - start program
+2026-05-29 12:18:12,025 - DEBUG - [main.py] - the user input is 3
+2026-05-29 12:18:12,026 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:18:12,026 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:19:05,946 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:21:07,390 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:21:07,391 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:21:07,391 - INFO - [main.py] - start program
+2026-05-29 12:21:09,796 - DEBUG - [main.py] - the user input is q
+2026-05-29 12:21:09,797 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:21:09,797 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 12:21:09,797 - INFO - [main.py] - start program
+2026-05-29 12:21:12,230 - DEBUG - [main.py] - the user input is 1
+2026-05-29 12:21:12,230 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:21:12,231 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:21:12,231 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 12:21:15,967 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:21:15,967 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:21:15,967 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:21:15,968 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:21:15,968 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:21:15,970 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:21:15,971 - INFO - [shape_manager.py] - saved shape in the list 
+2026-05-29 12:21:15,971 - INFO - [main.py] - start program
+2026-05-29 12:21:16,997 - DEBUG - [main.py] - the user input is 2
+2026-05-29 12:21:16,997 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:21:16,997 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:21:16,998 - INFO - [shape_manager.py] - start printing data
+2026-05-29 12:21:16,998 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 12:21:16,998 - INFO - [main.py] - start program
+2026-05-29 12:21:20,419 - DEBUG - [main.py] - the user input is 3
+2026-05-29 12:21:20,419 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:21:20,419 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:21:29,451 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:21:29,451 - INFO - [shape_manager.py] - start updating data...
+2026-05-29 12:21:29,451 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:21:29,452 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:21:29,452 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:21:29,452 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:21:29,453 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:21:29,453 - INFO - [shape_manager.py] - success the shape updated
+2026-05-29 12:21:29,453 - INFO - [shape_manager.py] - start printing data
+2026-05-29 12:21:29,453 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 12:21:29,453 - INFO - [main.py] - start program
+2026-05-29 12:32:10,238 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 12:32:10,238 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:32:10,238 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 12:32:10,238 - INFO - [main.py] - start program
+2026-05-29 12:32:13,363 - DEBUG - [main.py] - the user input is 1
+2026-05-29 12:32:13,363 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:32:13,363 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:32:13,364 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 12:32:16,704 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:32:16,704 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 12:32:16,704 - ERROR - [main.py] - error the id already exists
+2026-05-29 12:32:16,704 - INFO - [main.py] - start program
+2026-05-29 12:32:18,379 - DEBUG - [main.py] - the user input is 2
+2026-05-29 12:32:18,380 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:32:18,380 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:32:18,380 - INFO - [shape_manager.py] - start printing data
+2026-05-29 12:32:18,380 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 12:32:18,380 - INFO - [main.py] - start program
+2026-05-29 12:32:33,160 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 12:32:33,160 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:32:33,160 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 12:32:33,160 - INFO - [main.py] - start program
+2026-05-29 12:32:36,356 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:32:36,356 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:32:36,356 - INFO - [main.py] - start program
+2026-05-29 12:32:38,660 - DEBUG - [main.py] - the user input is 1
+2026-05-29 12:32:38,661 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:32:38,661 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:32:38,661 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 12:32:43,678 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:32:43,678 - INFO - [shape_manager.py] - saved shape in the list 
+2026-05-29 12:32:43,678 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:32:43,678 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:32:43,679 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:32:43,679 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:32:43,681 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:32:43,681 - INFO - [main.py] - start program
+2026-05-29 12:32:44,735 - DEBUG - [main.py] - the user input is 2
+2026-05-29 12:32:44,735 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:32:44,736 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:32:44,736 - INFO - [shape_manager.py] - start printing data
+2026-05-29 12:32:44,736 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 12:32:44,736 - INFO - [main.py] - start program
+2026-05-29 12:32:49,311 - DEBUG - [main.py] - the user input is 3
+2026-05-29 12:32:49,311 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:32:49,311 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:32:56,448 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:32:56,448 - INFO - [shape_manager.py] - start updating data...
+2026-05-29 12:32:56,449 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:32:56,449 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:32:56,449 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:32:56,449 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:32:56,450 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:32:56,450 - INFO - [shape_manager.py] - success the shape updated
+2026-05-29 12:32:56,450 - INFO - [shape_manager.py] - start printing data
+2026-05-29 12:32:56,451 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 12:32:56,451 - INFO - [main.py] - start program
+2026-05-29 12:34:51,305 - DEBUG - [main.py] - the user input is 2
+2026-05-29 12:34:51,306 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:34:51,306 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:34:51,306 - INFO - [shape_manager.py] - start printing data
+2026-05-29 12:34:51,306 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 12:34:51,306 - INFO - [main.py] - start program
+2026-05-29 12:34:55,974 - DEBUG - [main.py] - the user input is 4
+2026-05-29 12:34:55,975 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:34:55,975 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:34:57,624 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:34:57,624 - INFO - [shape_manager.py] - start deleting shape
+2026-05-29 12:34:57,625 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:34:57,625 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:34:57,625 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:34:57,625 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:34:57,627 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:34:57,627 - INFO - [shape_manager.py] - success shape deleted
+2026-05-29 12:34:57,627 - INFO - [main.py] - start program
+2026-05-29 12:35:02,222 - DEBUG - [main.py] - the user input is 2
+2026-05-29 12:35:02,223 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:35:02,223 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:35:02,223 - INFO - [shape_manager.py] - start printing data
+2026-05-29 12:35:02,223 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 12:35:02,223 - INFO - [main.py] - start program
+2026-05-29 12:35:07,313 - DEBUG - [main.py] - the user input is 2
+2026-05-29 12:35:07,313 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:35:07,314 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:35:07,314 - INFO - [shape_manager.py] - start printing data
+2026-05-29 12:35:07,314 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 12:35:07,314 - INFO - [main.py] - start program
+2026-05-29 12:35:10,742 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:35:10,743 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:35:10,743 - INFO - [main.py] - start program
+2026-05-29 12:35:12,149 - DEBUG - [main.py] - the user input is 1
+2026-05-29 12:35:12,150 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:35:12,150 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:35:12,150 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 12:35:18,050 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:35:18,050 - INFO - [shape_manager.py] - saved shape in the list 
+2026-05-29 12:35:18,050 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:35:18,050 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:35:18,051 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:35:18,051 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:35:18,052 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:35:18,052 - INFO - [main.py] - start program
+2026-05-29 12:35:19,329 - DEBUG - [main.py] - the user input is 2
+2026-05-29 12:35:19,329 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:35:19,330 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:35:19,330 - INFO - [shape_manager.py] - start printing data
+2026-05-29 12:35:19,330 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 12:35:19,330 - INFO - [main.py] - start program
+2026-05-29 12:35:23,641 - DEBUG - [main.py] - the user input is 4
+2026-05-29 12:35:23,641 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:35:23,641 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:35:27,731 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:35:27,731 - INFO - [shape_manager.py] - start deleting shape
+2026-05-29 12:35:27,732 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:35:27,732 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:35:27,732 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:35:27,732 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:35:27,734 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:35:27,734 - INFO - [shape_manager.py] - success shape deleted
+2026-05-29 12:35:27,734 - INFO - [main.py] - start program
+2026-05-29 12:36:07,866 - DEBUG - [main.py] - the user input is 2
+2026-05-29 12:36:07,866 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:36:07,866 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:36:07,866 - INFO - [shape_manager.py] - start printing data
+2026-05-29 12:36:07,866 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 12:36:07,866 - INFO - [main.py] - start program
+2026-05-29 12:37:47,525 - DEBUG - [main.py] - the user input is 1
+2026-05-29 12:37:47,525 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:37:47,525 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:37:47,525 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 12:37:55,197 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:37:55,197 - INFO - [shape_manager.py] - saved shape in the list 
+2026-05-29 12:37:55,197 - INFO - [shape_manager.py] - start save process
+2026-05-29 12:37:55,197 - INFO - [shape_manager.py] - loading data
+2026-05-29 12:37:55,198 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 12:37:55,198 - INFO - [shape_manager.py] - load from the file old data
+2026-05-29 12:37:55,199 - INFO - [shape_manager.py] - success save to file
+2026-05-29 12:37:55,199 - INFO - [main.py] - start program
+2026-05-29 12:38:18,325 - DEBUG - [main.py] - the user input is 1
+2026-05-29 12:38:18,326 - INFO - [main.py] - start checking user menu input
+2026-05-29 12:38:18,326 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 12:38:18,326 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 12:38:24,084 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 12:38:24,084 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 12:38:24,084 - ERROR - [main.py] - error the id already exists
+2026-05-29 12:38:24,084 - INFO - [main.py] - start program
+2026-05-29 14:02:22,570 - DEBUG - [main.py] - the user input is & C:/Users/aviv4/AppData/Local/Programs/Python/Python314/python.exe c:/Users/aviv4/Desktop/shape-crud/main.py
+2026-05-29 14:02:22,570 - INFO - [main.py] - start checking user menu input
+2026-05-29 14:02:22,570 - ERROR - [main.py] - user did not enter a number between 1 - 5 user enter a letter
+2026-05-29 14:02:22,571 - INFO - [main.py] - start program
+2026-05-29 14:02:25,669 - DEBUG - [main.py] - the user input is 1
+2026-05-29 14:02:25,670 - INFO - [main.py] - start checking user menu input
+2026-05-29 14:02:25,670 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 14:02:25,670 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 14:02:29,202 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 14:02:29,202 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 14:02:29,203 - ERROR - [main.py] - error the id already exists
+2026-05-29 14:02:29,203 - INFO - [main.py] - start program
+2026-05-29 14:02:31,164 - DEBUG - [main.py] - the user input is 2
+2026-05-29 14:02:31,165 - INFO - [main.py] - start checking user menu input
+2026-05-29 14:02:31,165 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 14:02:31,165 - INFO - [shape_manager.py] - start printing data
+2026-05-29 14:02:31,166 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 14:02:31,166 - INFO - [main.py] - start program
+2026-05-29 14:02:46,922 - DEBUG - [main.py] - the user input is 2
+2026-05-29 14:02:46,922 - INFO - [main.py] - start checking user menu input
+2026-05-29 14:02:46,923 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 14:02:46,923 - INFO - [shape_manager.py] - start printing data
+2026-05-29 14:02:46,923 - INFO - [shape_manager.py] - success all data printed 
+2026-05-29 14:02:46,923 - INFO - [main.py] - start program
+2026-05-29 14:02:49,841 - DEBUG - [main.py] - the user input is 1
+2026-05-29 14:02:49,841 - INFO - [main.py] - start checking user menu input
+2026-05-29 14:02:49,841 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 14:02:49,842 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 14:02:54,810 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 14:02:54,810 - ERROR - [shape_manager.py] - the id of the shape already exists
+2026-05-29 14:02:54,810 - ERROR - [main.py] - error the id already exists
+2026-05-29 14:02:54,810 - INFO - [main.py] - start program
+2026-05-29 14:03:38,604 - DEBUG - [main.py] - the user input is 1
+2026-05-29 14:03:38,605 - INFO - [main.py] - start checking user menu input
+2026-05-29 14:03:38,605 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 14:03:38,606 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 14:03:48,259 - ERROR - [main.py] - this id number not allowed (only 1 - 100 ids)
+2026-05-29 14:03:48,259 - INFO - [main.py] - start program
+2026-05-29 14:04:26,242 - DEBUG - [main.py] - the user input is 1
+2026-05-29 14:04:26,243 - INFO - [main.py] - start checking user menu input
+2026-05-29 14:04:26,243 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 14:04:26,244 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 14:04:27,342 - ERROR - [main.py] - user input is letters not numbers
+2026-05-29 14:04:27,343 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 14:04:49,931 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 14:07:30,328 - ERROR - [main.py] - user input is letters not numbers
+2026-05-29 14:07:30,328 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 14:07:33,000 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 14:07:41,304 - INFO - [shape.py] - start input object validation process
+2026-05-29 14:07:41,304 - INFO - [shape.py] - validation completed success
+2026-05-29 14:07:41,304 - INFO - [circle.py] - success to create object 
+2026-05-29 14:07:41,305 - INFO - [shape.py] - start input object validation process
+2026-05-29 14:07:41,305 - INFO - [shape.py] - validation completed success
+2026-05-29 14:07:41,305 - INFO - [circle.py] - success to create object 
+2026-05-29 14:07:41,319 - INFO - [shape_manager.py] - loading data
+2026-05-29 14:07:41,319 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 14:07:41,320 - INFO - [main.py] - start program
+2026-05-29 14:07:42,659 - DEBUG - [main.py] - the user input is 1
+2026-05-29 14:07:42,659 - INFO - [main.py] - start checking user menu input
+2026-05-29 14:07:42,659 - INFO - [main.py] - success user choose in menu SHAPE CRUS 
+2026-05-29 14:07:42,660 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 14:07:44,887 - ERROR - [main.py] - user enter that not 1 - 3
+2026-05-29 14:07:44,887 - INFO - [main.py] - start user input loop and checking it in shape menu 
+2026-05-29 14:07:52,377 - INFO - [shape.py] - start input object validation process
+2026-05-29 14:07:52,378 - INFO - [shape.py] - validation completed success
+2026-05-29 14:07:52,378 - INFO - [rectangle.py] - success to create object 
+2026-05-29 14:07:52,378 - INFO - [shape_manager.py] - start checking if id exists in shapes
+2026-05-29 14:07:52,378 - INFO - [shape_manager.py] - the id not exists
+2026-05-29 14:07:52,379 - INFO - [shape_manager.py] - saved shape in the list 
+2026-05-29 14:07:52,379 - INFO - [shape_manager.py] - start save process
+2026-05-29 14:07:52,379 - INFO - [shape_manager.py] - loading data
+2026-05-29 14:07:52,380 - INFO - [shape_manager.py] - success data loaded
+2026-05-29 14:07:52,382 - INFO - [shape_manager.py] - success save to file
+2026-05-29 14:07:52,383 - INFO - [main.py] - start program
