@@ -129,21 +129,3 @@ def main():
    
 main()
 
-manager_shape = shape_manager.ShapeManager()    
-try:
-    squar = square.Square(1,'square',1)
-    squar2 = square.Square(2,'square',1)
-    rec = rectangle.Rectangle(2,'rectangle',2)
-    user_circle:object = circle.Circle(9,'circle',3)
-except Exception as e:
-       print(e)
-manager_shape.create_shape(squar)
-manager_shape.create_shape(squar2)         
-manager_shape.create_shape(user_circle)
-
-manager_shape.get_all_shapes()
-
-
-#manager_shape.delete_shape(2)
-manager_shape.update_shape(1,10)
-manager_shape.get_all_shapes()

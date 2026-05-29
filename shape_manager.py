@@ -100,16 +100,3 @@ class ShapeManager:
            return(data)
            
 
-if __name__ == '__main__':
-    manager = ShapeManager()
-    manager.create_shape(circle.c)
-    #manager.create_shape(circle.t)
-    manager.get_all_shapes()
-    #print(manager.save_to_json())
-    manager.update_shape(6,90)
-    #print(manager.load_from_json())
-    #print(manager.delete_shape(6))
-    manager.get_all_shapes()
-    #with open('shapes.json','r') as f:
-     #   q=json.load(f)
-      #  print(q)

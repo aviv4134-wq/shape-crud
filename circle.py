@@ -36,6 +36,3 @@ class Circle(shape.Shape):
         area = self.get_area()
         return f'id:{self.shape_id}\ntype:{self.shape_type}\nradius:{self.radius}\narea:{area}\nperimeter:{perimeter}' 
 
-c = Circle(1,'circle',1)
-t = Circle(1,'circle',1)
-print(c.radius)
