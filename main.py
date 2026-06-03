@@ -1,6 +1,8 @@
 import circle,rectangle,square,shape_manager
 from logger_file import logger
+from fastapi import FastAPI
 
+app = FastAPI()
 
 def print_menu() ->None:
     """print menu to user"""
@@ -98,8 +100,9 @@ def main():
                 elif type_shape == '2':
                         type_shape = 'rectangle'
                         id_shape = input('enter id to your shape:  ')
-                        side_shape = input('enter side shape: ')
-                        user_rectangle:object = rectangle.Rectangle(id_shape,type_shape,side_shape)
+                        side_length = input('enter side shape: ')
+                        side_width = input('enter side shape: ')
+                        user_rectangle:object = rectangle.Rectangle(id_shape,type_shape,side_length,side_width)
                         manager_shape.create_shape(user_rectangle)          
                 elif type_shape == '3':
                         type_shape = 'circle'
@@ -107,8 +110,9 @@ def main():
                         radius_circle = input('enter a radius: ')
                         user_circle:object = circle.Circle(id_shape,type_shape,radius_circle)
                         manager_shape.create_shape(user_circle)
-            elif user_input_menu == '2':
-                manager_shape.get_all_shapes()
+            elif user_input_menu == '2':      
+                for shape in manager_shape.get_all_shapes():
+                    print(shape)
             elif user_input_menu == '3':
                 shape_id_user = input('enter id: ')
                 new_update_shape = input('enter number update:  ') 
@@ -122,7 +126,7 @@ def main():
                 logger.info('the user exit from program')
             logger.info('user operation success  ')    
         except Exception as error :
-            print(f'{e}')
+            print(f'{error}')
             logger.error(f'{error}')
                  
 
