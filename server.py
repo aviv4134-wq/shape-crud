@@ -36,14 +36,16 @@ def create_shape(shape:dict = Body(...)):
     logger.info('server take the request')
     shape_dict = shape
     try:
-        if shape_dict['type'] not in ['circle','rectangle','square']:
+        if shape_dict['type'] not in ['circle','rectangle','square']:  #check if the type of shape exists in the dict user sent
            raise HTTPException(status_code=400,detail='user enter wrong shape type')
-        if shape_dict['type'] == 'circle':
+        #start create the object
+        if shape_dict['type'] == 'circle':          
              shape = circle.Circle(shape_dict['id'],shape_dict['type'],shape_dict['radius'])
         elif shape_dict['type'] == 'square' :
              shape = square.Square(shape_dict['id'],shape_dict['type'],shape_dict['side'])
         elif shape_dict['type'] == 'rectangle' :
              shape =  rectangle.Rectangle(shape_dict['id'],shape_dict['type'],shape_dict['side length'],shape_dict['side width'])    
+        #add the object to json 
         shape_manager.create_shape(shape)
         return 'success to create'
     except ValueError as error:
@@ -84,10 +86,11 @@ def update_shape(shape_id:int,new_data:dict = Body(...)):
     and check if shape id exists and validation if fails it will be raise exception
       '''
     logger.info('server take the request')
-    if 0 > shape_id  or 50 < shape_id:
+    #check id validation
+    if 0 > shape_id  or 50 < shape_id: #check if id user is allowed id number
         logger.error('id not allowed only 1 - 50 allowed ')
         raise HTTPException(status_code=400,detail='error only id from 1 - 50 allowed')
-    if not shape_manager.is_id_exists(shape_id):
+    if not shape_manager.is_id_exists(shape_id): #check if id exists
         logger.error('the id not exists in the system')
         raise HTTPException(status_code=404,detail='error the id not exists')
     try:
@@ -105,6 +108,7 @@ def update_shape(shape_id:int,new_data:dict = Body(...)):
                 shape.shape_id = new_data.get('id')
                 shape.shape_type = new_data.get('type') 
                 shape_manager.save_to_json()
+    #if the side or radius is up to 50 it will be error
     except TypeError as error:
         logger.error(error)
         raise HTTPException(status_code = 400,detail = error)    
