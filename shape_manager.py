@@ -12,7 +12,7 @@ class ShapeManager:
         False = not exists"""
         logger.info('start checking if id exists in shapes')
         for shape in self.shapes:
-            if shape.shape_id  == shape_id: 
+            if shape.shape_id == shape_id:
                 logger.info('the id exists')
                 return True
         logger.info('the id not exists')
@@ -23,7 +23,6 @@ class ShapeManager:
         taken : none
         return : None
         """
-
         shape_id = shape.shape_id
         if self.is_id_exists(shape_id):
            logger.error('the id of the shape already exists')
@@ -36,11 +35,14 @@ class ShapeManager:
         """print all shape in the list in order and clean way
         return None"""
         logger.info('start printing data')
-        for shape in self.shapes:
-            print(f'{shape}\n')
         logger.info('success all data printed ')
-        return None
+        shapes = []
+        for shape in  self.shapes:
+            #shape = shape.to_dict()
+            shapes.append(shape)
+        return shapes
     def update_shape(self, shape_id, new_data):
+        """taken shape id and data and update the shape"""
         shape_id,new_data = Shape.validate_input_object(shape_id,new_data)
         if not self.is_id_exists(shape_id):
             logger.error('the id not exists in the system ')
@@ -50,7 +52,10 @@ class ShapeManager:
             if shape.shape_id == shape_id:
                 if isinstance(shape,circle.Circle):
                     shape.radius = new_data
-                if isinstance(shape,(rectangle.Rectangle,square.Square)):
+                if isinstance(shape,(rectangle.Rectangle)):
+                    shape.side_length = new_data
+                    shape.side_width = new_data
+                if isinstance(shape,square.Square):
                     shape.side = new_data
         self.save_to_json()
         logger.info('success the shape updated')
@@ -66,8 +71,7 @@ class ShapeManager:
             raise ValueError('error the id not exists')
         logger.info('start deleting process')
         for shape in self.shapes:
-            shape_dict:dict = shape.to_dict()
-            if shape_dict['id'] == shape_id:
+            if shape.shape_id == shape_id:
                 self.shapes.remove(shape)
                 self.save_to_json()
                 logger.info('success shape deleted')
@@ -78,7 +82,7 @@ class ShapeManager:
         return : None"""
         logger.info('start save process')
         try:
-            data = self.load_from_json()
+            data = []
             for shape in self.shapes:
                 shape = shape.to_dict()
                 data.append(shape)
@@ -90,13 +94,21 @@ class ShapeManager:
                 print(f"{e}")
                 return None
     def load_from_json(self):
-        """load data from json  and return the data 
+        """load data from json  and load the list of shapes objects 
         taken : None
-        return : data """
+        return : None"""
         logger.info('loading data')
         with open('shapes.json','r', encoding='utf-8') as f:
            data = json.load(f)
+           for shape in data:
+               if shape['type'] == 'circle':
+                   shape = circle.Circle(shape['id'],shape['type'],shape['radius']) 
+               elif shape['type'] == 'square':
+                   shape = square.Square(shape['id'],shape['type'],shape['side'])
+               elif shape['type'] == 'rectangle':
+                   shape = rectangle.Rectangle(shape['id'],shape['type'],shape['side length'],shape['side width'])
+               self.shapes.append(shape)           
            logger.info('success data loaded')
-           return(data)
+           return None
            
 
